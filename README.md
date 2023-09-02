@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello world 👋
 
 I'm Eliáš Bauer a creative developper/mad scientist, standing at the nexus of art and technology, perpetually driven by curiosity.
 
